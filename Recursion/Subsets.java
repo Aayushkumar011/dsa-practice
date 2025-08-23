@@ -1,5 +1,3 @@
-package Aug22_2025;
-
 import java.util.*;
 public class Subsets {
     public static void subsets(int[] arr,ArrayList<ArrayList<Integer>> list,ArrayList<Integer> l,int index){

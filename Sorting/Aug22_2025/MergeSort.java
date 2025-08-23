@@ -1,5 +1,3 @@
-package Aug22_2025;
-
 public class MergeSort {
     public static void merge(int[] arr,int s,int m,int e){
         int start = s;

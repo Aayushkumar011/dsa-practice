@@ -1,4 +1,3 @@
-package Aug22_2025;
 public class Is_subsequence_of {
     public static void main(String[] args){
         String s = "ush";

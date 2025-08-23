@@ -1,5 +1,3 @@
-package Aug22_2025;
-
 public class QuickSort {
     public static void swap(int[] arr,int i,int j){
         int temp = arr[i];
